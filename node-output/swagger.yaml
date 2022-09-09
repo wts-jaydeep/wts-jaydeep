@@ -1,0 +1,14 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "",
+    "description" : "",
+    "version" : "v1"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/wts-jaydeep/vani/v1",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
